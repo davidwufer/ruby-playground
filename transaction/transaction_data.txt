@@ -1,0 +1,8 @@
+John -> Poe $48.82
+John -> Bart $12
+
+Bart -> Poe $267.04
+
+Daisy -> Poe $46.17
+Daisy -> John $197.57
+Daisy -> Bart $9

@@ -1,0 +1,3 @@
+John -> Poe $48.82
+John -> Daisy $12
+Daisy -> John $197.57
